@@ -1,5 +1,5 @@
 # Projects
-1. QnA Finanacial Chatbot Using 
+1. Q&A Finanacial Chatbot Using 
 - Huggingface
 - LLM
 - RAG
